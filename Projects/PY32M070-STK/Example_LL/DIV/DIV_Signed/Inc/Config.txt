@@ -1,0 +1,10 @@
+[FilePath]
+0=../../../../../../Drivers/PY32M070_HAL_Driver/Src/py32m070_ll_utils.c
+[FileName]
+0=py32m070_ll_utils.c
+[Define]
+0=PY32M070xB
+1=USE_FULL_LL_DRIVER
+[User]
+0=../Src/main.c
+1=../Src/py32m070_it.c
